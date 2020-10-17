@@ -63,49 +63,57 @@
         "weightage": "80%"
       },
       {
-        "skillName": "Servlet",
-        "weightage": "75%"
+        "skillName": "AWS",
+        "weightage": "85%"
       },
       {
-        "skillName": "Python",
+        "skillName": "Azure",
         "weightage": "50%"
       },
       {
-        "skillName": "CSS3",
+        "skillName": "Spring",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "Spring boot",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "Hibernate",
+        "weightage": "60%"
+      },
+      {
+        "skillName": "Angular 6",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "Vue JS",
+        "weightage": "90%"
+      },
+      {
+        "skillName": "Lit Element",
+        "weightage": "80%"
+      },
+      {
+        "skillName": "HTML 5",
         "weightage": "70%"
       },
       {
-        "skillName": "P",
+        "skillName": "CSS3",
+        "weightage": "60%"
+      },
+      {
+        "skillName": "Javascript",
         "weightage": "80%"
       },
       {
-        "skillName": "Java",
-        "weightage": "80%"
-      },
-      {
-        "skillName": "Java",
-        "weightage": "80%"
-      },
-      {
-        "skillName": "Java",
-        "weightage": "80%"
-      },
-      {
-        "skillName": "Java",
-        "weightage": "80%"
-      },
-      {
-        "skillName": "Java",
-        "weightage": "80%"
-      },
-      {
-        "skillName": "Java",
+        "skillName": "Microservice",
         "weightage": "80%"
       }
     ]
   },
   "experience": {
-    "shortSummary": "Dummy",
+    "shortSummary": "",
     "exp": [{
         "startYear": "Oct, 2018",
         "endYear": "Current",
